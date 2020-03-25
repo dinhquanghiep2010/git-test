@@ -1,5 +1,6 @@
 #include <stdio.h>
+#include "main.h"
 
 void main(voi) {
-  printf("Toi ten la hiep");
+  printf(ten);
 }
