@@ -6,4 +6,5 @@
 #define BBB 2
 #define CCC 3
 #define DDD 4
-#endif /* _MAIN_H__ */
+#define EEE 5
+#endif
