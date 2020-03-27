@@ -7,4 +7,4 @@
 #define CCC 3
 #define DDD 4
 #define EEE 5
-#endif /* _MAIN_H__ */
+#endif
