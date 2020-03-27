@@ -7,4 +7,5 @@
 #define CCC 3
 #define DDD 4
 #define EEE 5
+#define FFF 6
 #endif
