@@ -4,4 +4,5 @@
 #define ten "DINH QUANG HIEP"
 
 #define BBB 2
+#define CCC 3
 #endif /* _MAIN_H__ */
